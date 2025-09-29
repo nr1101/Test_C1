@@ -5,14 +5,14 @@
 # ќписание
 
 ѕроект содержит:
-- “ест создани€ папки Ч Tests/CreateFolderTest.cs
-- “ест создани€ дела Ч Tests/CreateCaseTest.cs
+- “ест создани€ папки
+- “ест создани€ дела
 
 # —труктура проекта
 
-Drivers/ Ч DriverFactory дл€ создани€ WebDriver
-Pages/ Ч страницы (BasePage.cs, LoginPage.cs, CasePage.cs)
-Tests/ Ч тесты (CreateFolderTest.cs, CreateCaseTest.cs)
-Utils/ Ч вспомогательные классы (Config.cs)
+Drivers/ Ч DriverFactory дл€ создани€ WebDriver  
+Pages/ Ч страницы (BasePage.cs, LoginPage.cs, CasePage.cs)  
+Tests/ Ч тесты (CreateFolderTest.cs, CreateCaseTest.cs)  
+Utils/ Ч вспомогательные классы (Config.cs)  
 
 ƒанные дл€ авторизации указваютс€ в Utils/Config.cs.
